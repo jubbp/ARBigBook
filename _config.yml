@@ -10,7 +10,8 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'http://arbigbook.devlanky.net'
-baseurl:          '/'
+baseurl:          ''
+
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -58,8 +59,8 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
   - pages
+  - posts
   - others
 
 page_width: 800px

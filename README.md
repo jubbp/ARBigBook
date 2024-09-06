@@ -1,12 +1,22 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Amateur Radio Big Book of Resources
 permalink: /
 ---
 
 Make Jelly site have a GitBook look!
 
-## Demo
+## Introduction
+
+Welcome to my reference library for all think Amateur Radio.
+
+My name is Phillip and my callsign is VK6DEV.
+
+
+
+
+
+
 
 Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
 
