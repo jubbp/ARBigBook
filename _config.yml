@@ -73,6 +73,4 @@ incremental:      false
 regenerate:       true
 
 plugins:
-  - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
+  - je
