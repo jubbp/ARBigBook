@@ -14,4 +14,3 @@ My name is Phillip and my callsign is VK6DEV.
 
 You can contact me by email at vk6dev@gmail.com
 
-This ia a test change
