@@ -4,8 +4,6 @@ title: Amateur Radio Big Book of Resources
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
-
 ## Introduction
 
 Welcome to my reference library for all think Amateur Radio.
