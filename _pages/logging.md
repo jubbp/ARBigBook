@@ -12,7 +12,26 @@ An important part of Amateur Radio is logging contacts. Almost as important as l
 
 ### Manual Logging
 
+Why would you want to. It's just making work for yourself.
+
 ### Software Options
+
+#### Windows
+
+#### MacOS
+
+- RumLogNG
+- Hammrs
+
+#### Linux
+
+#### iOS (iPhone/iPad)
+
+- RumLogNG
+- Hammrs
+- POLO (Portable Logger)
+
+#### Android
 
 ## QSL (Confirmation of contacts) Options
 
