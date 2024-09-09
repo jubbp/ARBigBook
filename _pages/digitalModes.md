@@ -69,4 +69,7 @@ Ensure you download the correct driver package for the IC-7300 from the Icom web
 
 ## APRS
 
-This is some text
+## Winlink
+
+Winlink is an email system allowing sending of emails between winlink stations and the greater internet.
+

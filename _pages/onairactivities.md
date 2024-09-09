@@ -28,6 +28,11 @@ The range of on air activities you can take part in are many a varied.
 #### Longer Duration Contests
 
 - WIA DX Competition
-- WIA Club Competition
+- WIA Club Competition[^1]
 
 ### World Wide Contests
+
+## Notes
+
+[^1]: Membership of the Wireless Insitute of Australia is required to enter this competition. Please visit [www.wia.org.au](https://www.wia.org.au) for membership information
+
